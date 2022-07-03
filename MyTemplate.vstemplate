@@ -1,0 +1,53 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>KütüphaneOtomasyonu2</Name>
+    <Description>&lt;Uygun açıklama yok&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>KütüphaneOtomasyonu2</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.jpg</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="KütüphaneOtomasyonu2.csproj" File="vstg0001.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapİadefrm.cs">vstg0002.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapİadefrm.Designer.cs">vstg0003.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapİadefrm.resx">vstg0004.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapListelefrm.cs">emanetKitapListelefrm.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapListelefrm.Designer.cs">emanetKitapListelefrm.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapListelefrm.resx">emanetKitapListelefrm.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapVerfrm.cs">emanetKitapVerfrm.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapVerfrm.Designer.cs">emanetKitapVerfrm.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="emanetKitapVerfrm.resx">emanetKitapVerfrm.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.cs">Form1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.cs">Form1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="KitapEkle.cs">KitapEkle.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="KitapEkle.Designer.cs">KitapEkle.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="KitapEkle.resx">KitapEkle.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="kitapListelemefrm.cs">kitapListelemefrm.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="kitapListelemefrm.Designer.cs">kitapListelemefrm.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="kitapListelemefrm.resx">kitapListelemefrm.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="UyeEklefrm.cs">UyeEklefrm.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="UyeEklefrm.Designer.cs">UyeEklefrm.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="UyeEklefrm.resx">UyeEklefrm.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="UyeListelefrm.cs">UyeListelefrm.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="UyeListelefrm.Designer.cs">UyeListelefrm.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="UyeListelefrm.resx">UyeListelefrm.resx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
